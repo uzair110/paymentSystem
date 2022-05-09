@@ -1,0 +1,29 @@
+# Created by https://www.toptal.com/developers/gitignore/api/java
+# Edit at https://www.toptal.com/developers/gitignore?templates=java
+
+### Java ###
+# Compiled class file
+*.class
+
+build/*
+.gradle/*
+.serverless/*
+.idea/
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.json
+*.terraform
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# End of https://www.toptal.com/developers/gitignore/api/java
